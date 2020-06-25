@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/soitwater/MyUtilityFunctions/issues"
   },
-  "homepage": "https://github.com/soitwater/MyUtilityFunctions#readme"
+  "homepage": "https://github.com/soitwater/MyUtilityFunctions#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "iconv-lite": "^0.6.0"
+  }
 }
