@@ -6,5 +6,5 @@
 - `npm i`安转依赖
 
 ## Content
-### Dir2Readme
-- 获取文件目录下的列表并生成`Readme.md`文件
+- 每一个文件夹表示一个分类
+- 具体内容看各文件夹下的`readme.md`
